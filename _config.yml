@@ -22,7 +22,7 @@ avatar_image: /img/LinkedIn profile pic Cropped.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://www.linkedin.com/in/gaellethibert/" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/gaellethibert" # Add your linkedln handle
 github: "https://github.com/g-thibert"  # Add your github handle
 
 paginate: 6
@@ -51,6 +51,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
